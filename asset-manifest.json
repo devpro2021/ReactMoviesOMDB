@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactMoviesOMDB/static/css/main.71f7e94d.css",
+    "main.js": "/ReactMoviesOMDB/static/js/main.0864a0ed.js",
+    "index.html": "/ReactMoviesOMDB/index.html",
+    "main.71f7e94d.css.map": "/ReactMoviesOMDB/static/css/main.71f7e94d.css.map",
+    "main.0864a0ed.js.map": "/ReactMoviesOMDB/static/js/main.0864a0ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71f7e94d.css",
+    "static/js/main.0864a0ed.js"
+  ]
+}
