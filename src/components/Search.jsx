@@ -28,7 +28,7 @@ export default class Search extends Component {
             type='search'
             placeholder='search'
             value={this.state.search}
-            onChange={(e) => this.setState({ search: e.target.value })}
+            onChange={(e) => this.setState({ search: e.target.value.trim() })}
             onKeyDown={this.handleKey}
           />
           <p>
